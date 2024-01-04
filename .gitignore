@@ -25,7 +25,7 @@
 /libpeerconnection.log
 testem.log
 /typings
-/dist
+# /dist
 /node_modules
 
 # System files
