@@ -17,4 +17,4 @@ git commit -am "Deploy $timestamp"
 
 git push -u origin main
 
-eb deploy
+ng deploy
